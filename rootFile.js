@@ -1,1 +1,1 @@
-console.log("Loading", import.meta.url);
+const unused = 1234;

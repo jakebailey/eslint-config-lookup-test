@@ -1,1 +1,1 @@
-console.log("hello subdir");
+const unused = 1234;
